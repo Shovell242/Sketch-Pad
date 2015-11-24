@@ -1,0 +1,27 @@
+.container {
+    width:908px;
+    border:1px solid black;
+    margin:auto;
+    display:none;
+}
+img {height: 100px;margin: auto;
+display: inline-block;right: 15px; position: relative;}
+
+.header {width:400px;
+        height:150px;
+    text-align:center;
+    margin:auto;}
+
+td {height:100px;width:100px;background-color:#0400C7;}
+
+.highlight {background-color:#E7FF00;
+            transition: background-color 100ms linear;}
+
+button {width:90px;height:30px; background-color: #21C5F2;border:none;outline:none;
+cursor: pointer;color: white;border-radius: 5px;font-weight: bold;}
+
+button:hover {background-color: #105D72;}
+
+button:link {background-color: #105D72;}
+
+
